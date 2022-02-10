@@ -9,8 +9,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+### improvement 
+I changed the favicon
 ### Screenshot
-![Screenshot](./Screenshot.png)
+![Screenshot](/Screenshot.png)
 ### Links
 - Live Site URL: (https://github.com/Nenepo/qr-code-challenge.git)
 ### Built with
